@@ -14,4 +14,4 @@
 
 > Note: The Application try was based on web as it's the fast way of simulating the application.
 
-<img src="./README assets/react native Project.gif">
+<img src="./README assets/portfolio Project.gif">
